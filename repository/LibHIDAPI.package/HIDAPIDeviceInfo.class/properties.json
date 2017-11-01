@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIExternalStructure",
+	"category" : "LibHIDAPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_INTERFACE_NUMBER",
+		"OFFSET_MANUFACTURER_STRING",
+		"OFFSET_NEXT",
+		"OFFSET_PATH",
+		"OFFSET_PRODUCT_ID",
+		"OFFSET_PRODUCT_STRING",
+		"OFFSET_RELEASE_NUMBER",
+		"OFFSET_SERIAL_NUMBER",
+		"OFFSET_USAGE",
+		"OFFSET_USAGE_PAGE",
+		"OFFSET_VENDOR_ID"
+	],
+	"instvars" : [ ],
+	"name" : "HIDAPIDeviceInfo",
+	"type" : "normal"
+}

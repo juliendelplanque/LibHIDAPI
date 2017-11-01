@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIOpaqueObject",
+	"category" : "LibHIDAPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HIDAPIDevice",
+	"type" : "normal"
+}
